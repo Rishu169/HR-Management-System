@@ -131,10 +131,10 @@ Enter your choice (0-9): 2
 +-------+--------------------------------+-----------------+
 | ID    | Name                           | Salary (INR)    |
 +-------+--------------------------------+-----------------+
-| 1     | Priyanshu                      |       100000.00 |
-| 2     | Himanshu                       |       200000.00 |
-| 3     | Ashutosh                       |       110000.00 |
-| 4     | Atharv                         |       150000.00 |
+| 1     | Snehil                         |       100000.00 |
+| 2     | Dhyey                          |       200000.00 |
+| 3     | Kartikey                       |       110000.00 |
+| 4     | Kislay                         |       150000.00 |
 +-------+--------------------------------+-----------------+
 Total Employees: 4
 ```
@@ -146,8 +146,8 @@ Total Employees: 4
 Records are stored as simple, human readable comma separated values:
 ```text
 # ID,Name,Salary
-1,Priyanshu,100000.00
-2,Himanshu,200000.00
-3,Ashutosh,110000.00
-4,Atharv,150000.00
+1,Snehil,100000.00
+2,Dhyey,200000.00
+3,Kartikey,110000.00
+4,Kislay,150000.00
 ```
